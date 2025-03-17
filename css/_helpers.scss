@@ -1,0 +1,114 @@
+.text-center{
+    text-align: center;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
+
+.font-weight-normal{
+    font-weight: 400;
+}
+
+.font-weight-medium{
+    font-weight: 500;
+}
+
+.font-weight-semi-bold{
+    font-weight: 600;
+}
+
+.font-weight-bold{
+    font-weight: 700;
+}
+
+.font-italic{
+    font-style: italic;
+}
+
+.relative{
+    position: relative;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mb-0{
+    margin-bottom: 0 !important;
+}
+
+.spacer-15{
+    margin-bottom: 15px !important;
+}
+.spacer-20{
+    margin-bottom: 20px !important;
+}
+.spacer-25{
+    margin-bottom: 25px !important;
+}
+.spacer-30{
+    margin-bottom: 30px !important;
+}
+.spacer-35{
+    margin-bottom: 35px !important;
+}
+.spacer-40{
+    margin-bottom: 40px !important;
+}
+.spacer-45{
+    margin-bottom: 45px !important;
+}
+.spacer-50{
+    margin-bottom: 50px !important;
+}
+.spacer-60{
+    margin-bottom: 60px !important;
+}
+
+.spacer-80{
+    margin-bottom: 80px !important;
+}
+
+.p-y-50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.p-y-30{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.d-inline-block{
+    display: inline-block;
+}
+
+.d-block{
+    display: block;
+}
+
+
+.c-yellow{
+    color: #fccb01;
+}
+
+.line-height-173{
+    line-height: 1.73 !important;
+}
+.l-h-11{
+    line-height: 1.1 !important;
+}
+.l-h-133{
+    line-height: 1.33 !important;
+}
+
+@media screen and (min-width:1260px) {
+
+    .mx--20{
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    
+}

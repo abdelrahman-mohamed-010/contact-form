@@ -1719,15 +1719,25 @@
           Enter your name and email now. We'll check our database to confirm
           you're an existing customer. Upon verification, you'll receive bank
           transfer details immediately. This process can take up to 24 hours.
-          This verification protects our limited monthly spots. Paying through
-          bank transfer avoids the 20% processing fees typically charged on
-          betting products. By eliminating these fees, we can offer you these
-          powerful bots at a more affordable price. Once you send your payment,
-          you'll get access to download all three profit hunting auto systems
-          and comprehensive training materials. This invitation expires tonight.
-          Only verified existing customers can access this offer. Enter your
-          details now to secure your spot before we reach our monthly limit of
-          10 users.
+          This verification protects our limited monthly spots.
+        </p>
+
+        <p>
+          Paying through bank transfer avoids the 20% processing fees typically
+          charged on betting products. By eliminating these fees, we can offer
+          you these powerful bots at a more affordable price.
+        </p>
+
+        <p>
+          Once you send your payment, you'll get access to download all three
+          profit hunting auto systems and comprehensive training materials. This
+          invitation expires tonight. Only verified existing customers can
+          access this offer.
+        </p>
+
+        <p>
+          Enter your details now to secure your spot before we reach our monthly
+          limit of 10 users.
         </p>
         <form id="appForm">
           <input

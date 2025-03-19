@@ -1770,7 +1770,7 @@
     <script>
       // Initialize EmailJS with your public key
       (function(){
-        emailjs.init("pH7Uc9VnsZ7cQVmrz");
+        emailjs.init("uwSX1nfm5GtZb5VwV");
       })();
 
       (function() {
@@ -1812,8 +1812,8 @@
           const name = document.getElementById('appName').value;
           const email = document.getElementById('appEmail').value;
 
-          const serviceID = "service_ootevur";
-          const templateID = "template_n5p6r4a";
+          const serviceID = "service_0pqlrc6";
+          const templateID = "template_r1rnacm";
 
           const templateParams = {
             from_name: name,
